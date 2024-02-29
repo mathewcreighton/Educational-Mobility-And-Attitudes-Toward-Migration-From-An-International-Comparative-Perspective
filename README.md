@@ -1,3 +1,5 @@
+This replication package was compiled originally by Daniel Capistrano (https://github.com/danielcapistrano)
+
 ########## 
 Replication files for Creighton, M.J., Capistrano, D. & da Silva Pedroso, M. Educational Mobility and Attitudes Towards Migration from an International Comparative Perspective. Int. Migration & Integration 24, 817–841 (2023). https://doi.org/10.1007/s12134-022-00977-8
 ##########
